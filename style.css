@@ -1,0 +1,217 @@
+*{
+    text-decoration: none;
+    margin: 0 0;
+    font-family: poppins;
+}
+.cont{
+    background-color: #264653;
+    padding: 45px 100px;
+    color: white;
+    height: auto;
+    width: auto;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.btn{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #E76F51;
+    color: white;
+    font-size: 15px;
+}
+.four{
+    color: white;
+    padding: 10px ;
+    margin-right: 30px;
+}
+.nav{
+    margin-right: 50px;
+    margin-left: 550px;
+}
+.details{
+    display: flex;
+    align-items: center;
+    padding: 50px 0px;
+}
+h1{
+    padding: 10px 0px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.stpage{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    font-size: medium;
+}
+.container{
+    padding: 45px 100px;
+}
+.featured{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    /* position: absolute; */
+    gap: 5px;
+}
+.three img{
+    width: 288px;
+    height: 243px;
+    padding: 100px 70px;
+}
+
+/* Latest bikes part */
+
+.latest{
+    text-align: center;
+}
+.latest h1{
+    padding: 40px;
+}
+.box{
+    height: 540px;
+    width: 370px;
+    padding: 20px;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+.bike-img img{
+    width: 337px;
+    height: 256px;
+}
+.btn-hov{
+    background-color: white;
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+.btn:hover{
+    background-color: #E76F51;
+    color: white;
+}
+.bike-info h2{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.bike-info p{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+.three-box{
+    display: flex;
+    justify-content: center;
+    /* position: absolute; */
+    gap: 20px;
+}
+
+/* Happy Clients */
+.container h1{
+    padding: 50px 0px;
+}
+.three-clients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    /* position: absolute; */
+
+}
+.container h1{
+    text-align: center;
+}
+.container span{
+    color: #E76F51;
+}
+.client-box{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border: 1px solid #383838;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.client-img{
+    display: flex;
+    justify-content: center;
+}
+.client-img img{
+    height: 150px;
+    width: 150px;
+}
+.client-words p{
+    padding: 20px 0px;
+}
+.client-words div{
+    padding: 10px 0px;
+}
+.client-words a{
+    color: #23A6F0;
+    font-weight: 800;
+    font-size: small;
+}
+/* Faq */
+.faq{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.faq-img img{
+    width: 550px;
+    height: 550px;
+}
+.faq-box{
+    text-align: left;
+    background-color: white;
+    border: solid #383838;
+    border-width: 0.15px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.faq-box h2{
+    margin: 5px 0px;
+}
+.faq-box p{
+    color: #7E848C;
+}
+.Footer{
+    background-color: #0b0d17;
+    color: white;
+}
+li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+}
+footer{
+    padding-left: 35px;
+    padding-top: 10px;
+}
+.footer-img img{
+    height: 250px;
+    width: 450px;
+    
+}
+.footer-img p{
+    padding-left: 150px;
+}
+.footer-img{
+    padding-left: 200px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    font-size: small;
+}
